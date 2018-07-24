@@ -18,8 +18,6 @@ public class Test {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
-		System.out.println("hahaha");
-		System.out.println("ok");
-		System.out.println("stash test");
+		System.out.println("dev1");
 	}
 }
