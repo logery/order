@@ -20,5 +20,6 @@ public class Test {
 		}
 		System.out.println("hahaha");
 		System.out.println("ok");
+		System.out.println("stash test");
 	}
 }
