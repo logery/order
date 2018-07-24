@@ -19,6 +19,6 @@ public class Test {
 			e.printStackTrace();
 		}
 		System.out.println("hahaha");
-		System.out.println("bug fixed");
+		System.out.println("ok");
 	}
 }
