@@ -19,6 +19,6 @@ public class Test {
 			e.printStackTrace();
 		}
 		System.out.println("hahaha");
-		System.out.println("dev2");
+		System.out.println("stash test");
 	}
 }
