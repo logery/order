@@ -18,6 +18,6 @@ public class Test {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
-		System.out.println("dev1");
+		System.out.println("Test");
 	}
 }
